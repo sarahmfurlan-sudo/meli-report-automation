@@ -1,0 +1,5 @@
+analista,mes_referencia,area,tickets_backlog,km_rodados,projeto_ativo,status_projeto,destaque_mes,desafio_principal,proximo_passo
+Analista A,YYYY-MM,Shipping,0,0,Nome do projeto,Em andamento,Exemplo de destaque,Exemplo de desafio,Exemplo de próximo passo
+Analista B,YYYY-MM,DEV,0,0,Nome do projeto,Concluído,Exemplo de destaque,Exemplo de desafio,Exemplo de próximo passo
+Analista C,YYYY-MM,Oficinas,0,0,Nome do projeto,Em andamento,Exemplo de destaque,Exemplo de desafio,Exemplo de próximo passo
+Analista D,YYYY-MM,Estoque,0,0,Nome do projeto,Não iniciado,Exemplo de destaque,Exemplo de desafio,Exemplo de próximo passo
